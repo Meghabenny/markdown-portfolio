@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Megha Benny](https://media-exp1.licdn.com/dms/image/C5603AQFz7z0KTKIImw/profile-displayphoto-shrink_100_100/0/1623182156633?e=1646265600&v=beta&t=0xvYG70fYg0JFUNTba2RVCx3hzcAqCEqUw3RaQ7CdPk)
